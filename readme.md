@@ -1,6 +1,5 @@
 HOLA MUNDO
 
-Hola como estas?
 
 otro cambio
 ╔═══╗ ♪
@@ -9,3 +8,8 @@ otro cambio
 ╚═══╝♪♪
 
 Hello world!🖤
+que mas gente
+
+aqui esta kate
+
+otro intento
